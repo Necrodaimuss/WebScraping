@@ -1,0 +1,16 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "Web Scrapper",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Necrodaimuss",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.3"
+  }
+}
